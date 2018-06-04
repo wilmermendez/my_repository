@@ -67,7 +67,7 @@ error_reporting(-1);
 		#crear usuario :D
 		//$usuario->crear_usuario("wil","ape","@",1221);
 		#Comprar 
-		$usuario->comprar("dinosario rex",21.2);
+		$usuario->comprar("dinosario rRex",21.2);
 		echo "<br/> <br/> <br/>";
 		#devolucion
 		$usuario->devolucion(123112);
